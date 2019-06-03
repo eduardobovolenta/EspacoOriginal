@@ -2,5 +2,5 @@
 Sistema da pizzaria espaço original bar e pizzaria!
 
 ## Sobre
-Minha primeira aplicação.
-Proposta por um projeto de faculdade.
+Minha primeira aplicação. Proposta por um projeto de faculdade.
+Feita em JAVA + MySQL.
